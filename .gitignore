@@ -4,7 +4,6 @@
 *.pyc
 .vscode
 yarn.lock
-lib
 coverage/
 tsconfig.tsbuildinfo
 .tmp

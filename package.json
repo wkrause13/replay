@@ -20,7 +20,7 @@
       }
     }
   },
-  "repository": "github:puppeteer/replay",
+  "repository": "github:wkrause13/replay",
   "directories": {
     "doc": "docs"
   },
